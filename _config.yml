@@ -1,0 +1,6 @@
+theme: jekyll-material-theme
+encding: utf-8
+plugins:
+  - jekyll-github-metadata
+github : [metadata]
+repository: TeamOrangeServer/teamorangeserver.github.io
